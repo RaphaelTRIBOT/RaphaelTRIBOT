@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RaphaelTRIBOT
+- 🌱 I’m currently studying at Mines Paris - PSL university
+- I code on python and c++
